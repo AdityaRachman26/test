@@ -1,1 +1,2 @@
-3
+membuat branch baru
+git branch (nama-branch)
