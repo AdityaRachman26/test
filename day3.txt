@@ -1,1 +1,9 @@
-3
+Tools Ticketing
+
+Analisa tools ticketing berikut, TRELLO, JIRA SOFTWAE, dan YOUTRACK :
+1.  Alur penggunaan tools
+2.  Kelebihan masing masing tools
+3.  Kekurangan masing masing tools
+4.  Kesimpulan, tools ticketing mana yang mendekati aplikasi tools ticketing refactory
+
+Jelaskan kesimpulannya !
