@@ -1,9 +1,76 @@
 Tools Ticketing
 
-Analisa tools ticketing berikut, TRELLO, JIRA SOFTWAE, dan YOUTRACK :
+Analisa tools ticketing berikut, TRELLO, JIRA SOFTWARE, dan YOUTRACK :
 1.  Alur penggunaan tools
 2.  Kelebihan masing masing tools
 3.  Kekurangan masing masing tools
-4.  Kesimpulan, tools ticketing mana yang mendekati aplikasi tools ticketing refactory
+4.  Kesimpulan, tools ticketing mana yang mendekati aplikasi tools ticketing Refactory
 
 Jelaskan kesimpulannya !
+
+
+A. TRELLO (trial 30 hari)
+    ~. Alur penggunaan
+        1. Login, jika belum memiliki akun buat baru
+        2. Membuat tim, menentukan nama, tipe, dan anggota
+        3. Membuat board papan pengumuman untuk anggota
+        4. Mengatur judul/tujuan board
+        5. Melakukan undangan anggota yang akan tergabung dalam proyek
+    
+    +. Kelebihan :
+        +. Dapat mengunakan 10 atau lebih board dalam suatu proyek
+        +. Kartu yang tidak terbatas
+        +. Background yang dapat di kustomisasi
+        +. Dapat digunakan di platfrom IOS atau Android
+        +. Aktivitas log yang tidak terbatas
+        
+    -. Kekurangan :
+        -. Harus selalu terkoneksi dengan internet
+        -. Semakin banyak daftar proyek, maka proses pengaturan proyek akan sulit untuk dilakukan.
+        -. Tidak dapat melakukan perubahan atau edit dalam fitur komentar yang tersedia
+        -. Aplikasi Berbayar
+
+
+B. JIRA SOFTWARE
+    ~. Alur penggunaan
+        1. Login, jika belum memiliki akun buat baru
+        2. Membuat link proyek agar dapat diakses 
+        3. Mengundang anggota yang akan ikut serta
+        4. Memilih template 
+        5. Membuat proyek board awal
+        6. Mengatur judul/tujuan board
+
+    +. Kelebihan :
+        +. Memiliki template untuk mempermudah pemberian tugas 
+        +. Dapat mengunakan 10 atau lebih board dalam suatu proyek
+        +. Terdapat penyimpanan 2 GB
+        +. Komunitas dan pelatihan yang memadai
+        +. Mudah digunakan
+
+    -. Kekurangan :
+    
+        -. Penggunaan website yang lambat
+        -. Terdapat eror pada fitur-fitur tertentu
+        -. harga yang kurang kompetitif
+
+
+C. YOUTRACK
+    ~. Alur penggunaan
+        1. Membuat akun baru
+        2. Membuat proyek
+        3. Memilih template proyek
+        4. Mengundang anggota yang akan terlibat
+        5. Mengatur judul/tujuan board
+
+    +. Kelebihan :
+        +. Dapat mengunakan 10 atau lebih board dalam suatu proyek
+        +. Terdapat penyimpanan 30 GB
+        +. Membuat proyek dengan cepat
+        +. Proyek privasi
+
+    -. Kekurangan :
+        -. Memiliki waktu trial yang singkat
+        -. Tidak adanya kostomisasi logo pada proyek
+
+
+Saya rasa Tools Ticketing Refactory lebih mengadaptasi pada aplikasi trello, dalam bentuk desain
